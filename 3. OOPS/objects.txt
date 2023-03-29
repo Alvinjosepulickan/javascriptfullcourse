@@ -1,0 +1,5 @@
+Objects have properties and methods. JavaScript provides many standard built-in objects. In addition to that it also provides an option to create user defined objects.
+Some of the commonly used built-in objects are:
+    Array
+    Date
+    String
